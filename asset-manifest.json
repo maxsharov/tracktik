@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tracktik/static/css/main.8efb0e1b.css",
-    "main.js": "/tracktik/static/js/main.32a1cb69.js",
+    "main.js": "/tracktik/static/js/main.d1ae3706.js",
     "index.html": "/tracktik/index.html",
     "main.8efb0e1b.css.map": "/tracktik/static/css/main.8efb0e1b.css.map",
-    "main.32a1cb69.js.map": "/tracktik/static/js/main.32a1cb69.js.map"
+    "main.d1ae3706.js.map": "/tracktik/static/js/main.d1ae3706.js.map"
   },
   "entrypoints": [
     "static/css/main.8efb0e1b.css",
-    "static/js/main.32a1cb69.js"
+    "static/js/main.d1ae3706.js"
   ]
 }
